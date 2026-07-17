@@ -6,15 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Learn+SQL+the+Easy+Way;Perfect+for+Data+Analysts;Interview+Preparation;Beautiful+Handwritten+Notes;Practice+Like+a+Professional" />
 
-<br>
-
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/USERNAME/REPOSITORY?style=for-the-badge)
-
----
 
 ⭐ If this project helps you, please consider giving it a Star.
 
